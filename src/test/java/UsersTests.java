@@ -182,5 +182,4 @@ public class UsersTests {
             System.out.println(userInfo);
         }
     }
-
 }
